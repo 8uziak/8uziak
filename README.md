@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @8uziak
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Python and MySQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: matbuziak@gmail.com
 
 <!---
 8uziak/8uziak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
