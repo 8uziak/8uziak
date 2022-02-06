@@ -1,6 +1,6 @@
 - > Hi, I’m @8uziak
-- > (begginer/junior developer)
 - > I am improving my skills Python and MySQL
+- > (begginer/junior developer)
 - > reach me: matbuziak@gmail.com
 
 <!---
