@@ -1,6 +1,5 @@
 - > Hi, I’m @8uziak
-- > I am improving my skills in Python and MySQL
-- > (begginer/junior developer)
+- > I am improving my skills in Python and SQL (PostgreSQL)
 - > reach me: matbuziak@gmail.com
 
 <!---
