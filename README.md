@@ -1,5 +1,7 @@
 Hi, I am Matty :)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-buziak/)
+
 Happy to see you here!
 
 I am a self-taught programmer with a strong passion for coding and database analysis.I love the freedom that writing programs gives me. I am constantly looking for new solutions to become a better person and programmer.
