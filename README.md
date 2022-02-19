@@ -1,8 +1,14 @@
-- > Hi, I’m @8uziak
-- > I am improving my skills in Python and SQL (PostgreSQL)
-- > reach me: matbuziak@gmail.com
+Hi, I am Matty :)
 
-<!---
-8uziak/8uziak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Happy to see you here!
+
+I am a self-taught programmer with a strong passion for coding and database analysis.I love the freedom that writing programs gives me. I am constantly looking for new solutions to become a better person and programmer.
+
+I haven't had the opportunity to work in IT yet, but I'm still growing and writing more and more complex software. My dream is to find a job in big tech so I can spread my wings and work with the best!
+
+I am improving my skills in Python and SQL (PostgreSQL)
+
+👨🏻‍ Please feel free to get in touch, I'll be happy to help!
+📩 Reach me: matbuziak@gmail.com
+
+
