@@ -20,13 +20,13 @@ I am a self-taught programmer with a strong passion for coding and database anal
 2. Scientific calculator:
 - 360 lines of code
 - comments applied
-- GUI library used
+- Tkinter library used
 - link: https://github.com/8uziak/Projects-Python-GUI-only/blob/main/Scientific-Calculator.py
 
 3. Hangman:
 - had to take the earlier program apart and put it together
 - imported entire English dictionary from .txt file
-- GUI library
+- Tkinter library
 - link: https://github.com/8uziak/Projects-Python-GUI-only/tree/main/Hangman
 ```
 <!--END_SECTION:waka-->
