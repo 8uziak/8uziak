@@ -4,6 +4,6 @@
 
 ### Happy to see you here!
 
-I am passionate about data. I interact with them on a daily basis, as I am a DataOps Specialist by profession. I am learning Python on my own, the results of which you can see below. 
+I am passionate about data. I interact with data on a daily basis. I am learning Python on my own, the results of which you can see below in my repos. 
 
 📩 Please feel free to get in touch. Reach me: [mateuszbuziak.com/contact](https://mateuszbuziak.com/contact)
